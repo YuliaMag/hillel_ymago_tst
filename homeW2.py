@@ -8,5 +8,5 @@ print(x < y)
 print(x != 0)
 print(x == y)
 print(x != y)
-print('\n')
+
 print(x >= y)
